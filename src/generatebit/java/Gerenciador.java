@@ -38,7 +38,7 @@ class Gerenciador {
 
         }
         for (Produto produto : produtosList) {
-            System.out.println("ID -> " + produto.getIdProd() + " Produto -> " + produto.getNomeProd());
+            System.out.println("ID -> " + produto.getIdProd() + " Produto -> " + produto.getNomeProd() + "Valor - > " + produto.getValorProd());
 
         }
     }

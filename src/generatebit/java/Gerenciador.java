@@ -52,12 +52,5 @@ class Gerenciador {
         return false;
     }
 
-//    public static Produto[] obterProdutos()throws ProdutoException{
-//        if (produtosList.isEmpty()){
-//            throw new ProdutoException("Não é possível obter os produtos, lista vazia");
-//        }
-//        return (Produto[])produtosList.toArray();
-//    }
-
 
 }
